@@ -2,12 +2,12 @@
 
 Proyecto de práctica, para agregar animales con comentarios y sonidos característicos.
 
-![Perfil principal.](https://github.com/Francooo2/meOrganizoApp/blob/main/src/public/img/profile.png?raw=true "Perfil principal")
+![Perfil principal.](https://github.com/Francooo2/animales_salvajes/blob/main/assets/imgs/principal.png "Perfil principal")
 
 
 ### Demo 📋
 
-[Pincha aquí para ver demo](https://www.meorganizo.digital/)
+[Pincha aquí para ver demo](https://pensive-mcclintock-c5313c.netlify.app/)
 
 ### Pre-requisitos 📋
 
