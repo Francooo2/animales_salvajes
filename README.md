@@ -1,4 +1,4 @@
-# Aplicación lista de tareas
+# Aplicación animales salvajes
 
 Proyecto de práctica, para agregar animales con comentarios y sonidos característicos.
 
